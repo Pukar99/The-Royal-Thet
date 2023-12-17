@@ -62,7 +62,7 @@
     z-index: 999;
   }
   #nav img {
-    height: 4.5vw;
+    height: 9vw;
   }
   #nav h4 {
     text-transform: uppercase;
@@ -103,8 +103,8 @@
     content: "THE ROYAL THET";
     position: absolute;
     color: #000;
-    top: -5px;
-    left: -5px;
+    top: -4px;
+    left: -4px;
     -webkit-text-stroke: 1.5px #c1a01e;
     z-index: -1;
   }
@@ -243,13 +243,13 @@
     transition: all ease 0.6s;
   }
   #card1 {
-    background-image: url(https://eiwgew27fhz.exactdn.com/wp-content/uploads/2023/02/home-toptracer-1024x682.jpg?strip=all&lossy=1&sharp=1&ssl=1);
+    background-image: url(https://th.bing.com/th/id/OIP.df4bmhV8GD9VFKRAZQB_LwHaFx?rs=1&pid=ImgDetMain);
   }
   #card2 {
-    background-image: url(https://eiwgew27fhz.exactdn.com/wp-content/uploads/2023/02/hero-4-1024x1024.jpg?strip=all&lossy=1&sharp=1&ssl=1);
+    background-image: url(https://th.bing.com/th/id/OIP.-oeNCRu9EinJ8Lxb4NmetQHaE8?rs=1&pid=ImgDetMain);
   }
   #card3 {
-    background-image: url(https://eiwgew27fhz.exactdn.com/wp-content/uploads/2023/02/home-lessons-1024x682.jpg?strip=all&lossy=1&sharp=1&ssl=1);
+    background-image: url(https://th.bing.com/th/id/OIP.R1Yy6eUMOxDtWl3F3Hp_NQHaEW?rs=1&pid=ImgDetMain);
   }
   .overlay {
     height: 100%;
