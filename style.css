@@ -377,9 +377,9 @@
     scale: 1;
   }
   #page4 h1 {
-    font-size: 6.4vw;
+    font-size: 4.4vw;
     position: absolute;
-    top: -15%;
+    top: -14%;
     font-weight: 900;
     font-family: gilroy;
     color: #000;
@@ -440,3 +440,4 @@
     line-height: 20px;
     margin-bottom: 8px;
   }
+  
