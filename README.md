@@ -23,7 +23,7 @@ Welcome to the GitHub repository for the official website of "The Royal Thet," a
 
 - **Clone the Repository**:
   ```bash
-  git clone https://github.com/your-username/The-Royal-Thet.git
+  git clone https://github.com/Pukar99/The-Royal-Thet.git
 
 Here are some of the results from our latest runs:
 
